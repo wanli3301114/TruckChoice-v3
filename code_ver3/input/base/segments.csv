@@ -1,0 +1,4 @@
+Segment,Sale,Annual_mile_distribution,Annual_mile_avg,Annual_mile_STD,Discount_rate_distribution,Discount_rate_avg,Discount_rate_STD,Lifetime,Maintainence_DV,Maintainence_BEV,Idling_hour,BEV_cost_adjust_2020_distribution,BEV_cost_adjust_2020_avg,BEV_cost_adjust_2020_std,refuel_time_avail_distribution,refuel_time_avail_avg,refuel_time_avail_std,time_penalty_distribution,time_penalty_avg,time_penalty_std,Other_incentive_2020,Other_incentive_2050,Sample_size
+Day_cab,90600,gamma,57328.84945,36267.68999,gamma,0.07,0.04,10,11354.77447,6812.864683,0,normal,1,0.1,gamma,730,365,gamma,50,25,0,0,9060
+Sleeper,57600,gamma,87254.00401,32832.27332,gamma,0.07,0.07,10,21005.07383,12603.0443,2121,normal,1,0.1,gamma,730,365,gamma,50,25,0,0,5760
+Bus,6000,gamma,38786.12177,10801.61146,gamma,0.03,0.005,12,11354.77447,6812.864683,0,normal,1,0.1,gamma,1825,912.5,gamma,25,12.5,45000,0,600
